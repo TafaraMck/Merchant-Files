@@ -1,0 +1,5 @@
+Video Title: Import Crypto Price In Excel
+Video ID: LkE_JQVfKUI
+
+Description:
+We know Excel's financial data type feature doesn't really support Crypto currencies very well, so I thought I would share an ...

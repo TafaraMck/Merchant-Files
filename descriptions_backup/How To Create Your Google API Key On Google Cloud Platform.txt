@@ -1,0 +1,5 @@
+Video Title: How To Create Your Google API Key On Google Cloud Platform
+Video ID: brCkpzAD0gc
+
+Description:
+An API key is a piece of string for a system to authenticate an application or identify a user, and by using a Google Cloud API key, ...

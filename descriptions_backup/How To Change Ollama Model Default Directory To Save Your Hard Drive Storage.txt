@@ -1,0 +1,5 @@
+Video Title: How To Change Ollama Model Default Directory To Save Your Hard Drive Storage
+Video ID: uj1VnDPR9xo
+
+Description:
+In this quick video, I will go through the steps how to change the default directory location when you download an Ollama model.
